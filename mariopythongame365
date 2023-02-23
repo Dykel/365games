@@ -1,3 +1,5 @@
+# This code initializes pygame, sets variables for window size, framerate, colors, and creates a clock. It also loads images, sets a font, and initializes a canvas. It creates classes for the dragon, flames, mario, and top score, and methods for detecting collisions and updating the game window. There are also functions to start the game, check the level, and end the game.
+
 import pygame
 import sys
 pygame.init()
